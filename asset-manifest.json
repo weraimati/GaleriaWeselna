@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/GaleriaWeselna/static/css/main.5629393b.css",
-    "main.js": "/GaleriaWeselna/static/js/main.824db484.js",
+    "main.js": "/GaleriaWeselna/static/js/main.45f2ed42.js",
     "static/js/453.ed3810f9.chunk.js": "/GaleriaWeselna/static/js/453.ed3810f9.chunk.js",
     "index.html": "/GaleriaWeselna/index.html",
     "main.5629393b.css.map": "/GaleriaWeselna/static/css/main.5629393b.css.map",
-    "main.824db484.js.map": "/GaleriaWeselna/static/js/main.824db484.js.map",
+    "main.45f2ed42.js.map": "/GaleriaWeselna/static/js/main.45f2ed42.js.map",
     "453.ed3810f9.chunk.js.map": "/GaleriaWeselna/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5629393b.css",
-    "static/js/main.824db484.js"
+    "static/js/main.45f2ed42.js"
   ]
 }
