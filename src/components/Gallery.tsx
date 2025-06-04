@@ -82,7 +82,7 @@ function Gallery() {
             fontSize: '20px',
             minWidth: '145px',
             borderRadius: '6px',
-            fontFamily: "'Great Vibes', sans-serif", 
+            fontFamily: "'Raleway', sans-serif", 
             backgroundColor: '#8c78b7',
             color: '#fff',
             border: 'none',

@@ -22,8 +22,8 @@ function App() {
 }, [showGallery]);
 
   return (
-    <div style={{ textAlign: 'center', padding: '10px 10px', backgroundColor: '#fcf7f0', fontFamily: "'Great Vibes', sans-serif", minHeight: '100vh'}}>
-      <h1 style={{ fontSize: '2.2rem', padding: '20 20', margin: '0', color: '#8c78b7' }}>Wieczór Panieński Wery</h1>
+    <div style={{ textAlign: 'center', padding: '10px 10px', backgroundColor: '#ffffff', fontFamily: "'Raleway', sans-serif", minHeight: '100vh'}}>
+      <h1 style={{ fontSize: '2.2rem', padding: '20 20', margin: '0', color: '#8c78b7' }}>Wesele Wery i Mateusza</h1>
       <h1 style={{ fontSize: '1.6rem', padding: '10', margin: '0', color: '#8c78b7' }}>Pokaż jak się bawisz!</h1>
 
       <ImageUploader code={codeParam} />
@@ -35,7 +35,7 @@ function App() {
             padding: '10px 10px',
             fontSize: '20px',
             minWidth: '145px',
-            fontFamily: "'Great Vibes', sans-serif",
+            fontFamily: "'Raleway', sans-serif",
             borderRadius: '8px',
             backgroundColor: '#8c78b7',
             color: '#fff',
